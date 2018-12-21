@@ -9,3 +9,5 @@ Our Goal is to predict the future price of the oil by using RNN-LSTM(Recurrent N
 keras Documentation -https://keras.io/
 
 I have divided the dataset into two parts i.e Train Set and Test Set.
+
+The Dataset consist of two columns i.e Date and Closing Value
