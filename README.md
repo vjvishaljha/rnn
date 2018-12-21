@@ -7,3 +7,5 @@ The data is freely available here-https://www.kaggle.com/rockbottom73/crude-oil-
 Our Goal is to predict the future price of the oil by using RNN-LSTM(Recurrent Neural Network)(Long Short Term Memory) using keras 
 
 keras Documentation -https://keras.io/
+
+I have divided the dataset into two parts i.e Train Set and Test Set.
